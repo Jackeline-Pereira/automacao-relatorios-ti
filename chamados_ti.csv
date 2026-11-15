@@ -1,0 +1,54 @@
+ID_Chamado,Setor,Prioridade,Status,Tempo_Atendimento_Horas
+1001,Comercial,Alta,Pendente,13.0
+1002,Producao,Baixa,Pendente,41.0
+1003,Financeiro,Media,Resolvido,3.0
+1004,Comercial,Media,Resolvido,39.0
+1005,Comercial,Baixa,Resolvido,6.0
+1006,,Media,Em Andamento,8.0
+1007,Financeiro,Baixa,Pendente,27.0
+1008,Financeiro,Baixa,Resolvido,9.0
+1009,Comercial,Urgente,Resolvido,37.0
+1010,RH,Urgente,Resolvido,33.0
+1011,Comercial,Alta,Resolvido,42.0
+1012,Comercial,Baixa,Pendente,44.0
+1013,Comercial,Baixa,Pendente,
+1014,Comercial,Media,Em Andamento,15.0
+1015,Producao,Media,Resolvido,32.0
+1016,Financeiro,Baixa,Resolvido,32.0
+1017,Producao,Media,Pendente,24.0
+1018,Producao,Baixa,Pendente,41.0
+1019,Producao,Urgente,Resolvido,12.0
+1020,Comercial,Baixa,Pendente,39.0
+1021,RH,Media,Resolvido,2.0
+1022,Financeiro,Baixa,Resolvido,3.0
+1023,RH,Media,Resolvido,37.0
+1024,Producao,Media,Resolvido,17.0
+1025,Producao,Baixa,Resolvido,2.0
+1026,RH,Urgente,Resolvido,2.0
+1027,RH,Alta,Pendente,28.0
+1028,RH,Urgente,Resolvido,23.0
+1029,Producao,Alta,Resolvido,37.0
+1030,Producao,Media,Em Andamento,32.0
+1031,Financeiro,Urgente,Resolvido,33.0
+1032,Financeiro,Baixa,Resolvido,1.0
+1033,Producao,Baixa,Pendente,19.0
+1034,RH,Baixa,Resolvido,2.0
+1035,RH,Baixa,Resolvido,44.0
+1036,Financeiro,Baixa,Resolvido,26.0
+1037,Producao,Baixa,Resolvido,32.0
+1038,Financeiro,Alta,Em Andamento,6.0
+1039,Financeiro,Baixa,Pendente,32.0
+1040,Comercial,Baixa,Pendente,4.0
+1041,Comercial,Media,Em Andamento,11.0
+1042,Comercial,Baixa,Pendente,17.0
+1043,RH,Alta,Resolvido,38.0
+1044,Producao,Baixa,Em Andamento,24.0
+1045,Producao,Urgente,Resolvido,5.0
+1046,Producao,Alta,Pendente,34.0
+1047,Producao,Baixa,Em Andamento,6.0
+1048,Comercial,Baixa,Resolvido,22.0
+1049,RH,Alta,Resolvido,11.0
+1050,RH,Alta,Resolvido,16.0
+1001,Comercial,Alta,Pendente,13.0
+1002,Producao,Baixa,Pendente,41.0
+1003,Financeiro,Media,Resolvido,3.0
